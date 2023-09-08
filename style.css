@@ -1,0 +1,7 @@
+.app-netflix{
+    background-image: url(img/bg-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
